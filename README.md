@@ -92,7 +92,7 @@ Click Ok.
 
 ### Install
 
-download and double click the IEEEUoY.ens file and follow the onscreen instructions!
+download and double click the 'IEEE UoY.ens' file and follow the onscreen instructions!
 
 ## Contact me
 
