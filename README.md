@@ -28,13 +28,15 @@ if you use EndNote with Google docs!!!
 
 ### Before you use this stylesheet
 
-Please *always* check your references manually!! University of York's IEEE guide is
+Please *always* check your references manually!! 
+
+University of York's IEEE guide is
 [here](https://subjectguides.york.ac.uk/referencing-style-guides/ieee)
 
 [Information for installing EndNote](https://www.york.ac.uk/it-services/software/a-z/endnote/#tab-1) 
 (with a University of York license if you are a student)
 
-## Installation.
+## Installation
 
 You can just download the file and double click it. If you do, books references should work 
 fine. But please read the next section to setup your EndNote installation first if you need 
