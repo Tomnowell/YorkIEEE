@@ -104,5 +104,3 @@ Take 512 put it after tsn then add  york.......uk to email me! Suggestions,
 updates, criticisms, corrections welcome though don't criticize the original author.
 If there are mistakes, they are most certainly mine. :)
 
-## 頑張ってね
-Do or do not, there is no try #Yoda
