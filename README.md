@@ -104,6 +104,9 @@ Take 512 put it after tsn then add  york.......uk to email me! Suggestions,
 updates, criticisms, corrections welcome though don't criticize the original author.
 If there are mistakes, they are most certainly mine. :)
 
+<<<<<<< HEAD
 ## Changelog
 
 27/06/2023 - Add formatting output style for 'Standard' to conform the UoY guidance.
+=======
+>>>>>>> 1dd70d7c92ef8f1c2dc8b4184d85f8ec9fb1bda8
